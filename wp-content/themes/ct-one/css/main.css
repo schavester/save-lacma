@@ -1,0 +1,273 @@
+/*- One Divi child theme styles -*/
+
+/*------------------------------------------------*/
+/*-----------------[BASIC STYLES]-----------------*/
+/*------------------------------------------------*/
+
+.et-pb-arrow-prev, .et-pb-arrow-next {
+    background-color: rgba(92, 133, 129, 1) !important;
+}
+
+.hidden { display: none !important; }	
+
+/*------------------------------------------------*/
+/*---------------[MAIN LAYOUT INFO]---------------*/
+/*------------------------------------------------*/
+
+.et_pb_fullwidth_header_subhead a {color:#fff;}
+
+/*------------------------------------------------*/
+/*-------------[BOUNCING MORE ICON]---------------*/
+/*------------------------------------------------*/
+
+@-webkit-keyframes bounce {
+0%, 100% {
+-moz-transform: translateY(0);
+-ms-transform: translateY(0);
+-webkit-transform: translateY(0);
+transform: translateY(0);
+}
+40% {
+-moz-transform: translateY(-15px);
+-ms-transform: translateY(-15px);
+-webkit-transform: translateY(-15px);
+transform: translateY(-15px);
+}
+}
+@keyframes bounce {
+0%, 100% {
+-moz-transform: translateY(0);
+-ms-transform: translateY(0);
+-webkit-transform: translateY(0);
+transform: translateY(0);
+}
+40% {
+-moz-transform: translateY(-15px);
+-ms-transform: translateY(-15px);
+-webkit-transform: translateY(-15px);
+transform: translateY(-15px);
+}
+}
+span.scroll-down.et-pb-icon { 
+-webkit-animation-name: bounce;
+animation-name: bounce;
+-webkit-animation-duration: 2s;
+animation-duration: 2s;
+-webkit-animation-fill-mode: both;
+animation-fill-mode: both;
+-webkit-animation-iteration-count: infinite;
+animation-iteration-count: infinite;
+}
+
+/*------------------------------------------------*/
+/*--------------[TRIANGLE DIVIDERS ]--------------*/
+/*------------------------------------------------*/
+ 
+.triangles::before, .triangles::after {position: absolute; content: ''; pointer-events: none;}
+ 
+.triangles::before, .triangles::after {
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    -webkit-transform: translateX(-50%) rotate(45deg);
+   transform: translateX(-50%) rotate(45deg);}
+ 
+    /* Top arrow pointing down. Currently set as black. This can be removed if you don't want a top arrow */
+    /*  .triangles::before {top: -50px; background: #000;}
+ 
+    /* Bottom arrow pointing down. Currently set to inherit the background of the section. This can be removed if you don't want a bottom arrow */
+    .triangles::after { bottom: -50px; z-index: 10; background:#dd3333;}
+
+	
+	
+.et-pb-arrow-prev, .et-pb-arrow-next {
+background-color: rgba(0, 0, 0, .2);}
+
+#footer-info, .et-social-icons {
+text-align: center;
+line-height:100px;
+     float: none;
+}
+
+#about-us h1 {
+padding-bottom: 25px; 
+border-bottom: 1px solid #5C8581; 
+margin-bottom:35px;
+ }
+
+#portfolio h1, #team h1, #testimonials h1 {
+font-size:45px; 
+text-transform: uppercase; 
+padding-bottom: 25px; 
+border-bottom: 1px solid #5C8581; 
+width:80%; max-width: 800px; 
+margin:0 auto 35px auto;
+}
+
+#services h1, #blog h1, #contact h1 {
+font-size:45px; 
+text-transform: uppercase; 
+padding-bottom: 25px; 
+border-bottom: 1px solid #fff; 
+width:80%;
+max-width: 800px;
+margin:0 auto 35px auto;
+ }
+
+ /*------------------------------------------------*/
+/*-------------------[COMMENTS]-------------------*/
+/*------------------------------------------------*/
+
+#commentform textarea, #commentform input[type="text"], #commentform input[type="email"], #commentform input[type="url"] {
+    background-color: #fff; border:1px #111 solid;
+    
+}
+
+ /*------------------------------------------------*/
+/*--------------------[SIDEBAR]-------------------*/
+/*------------------------------------------------*/
+
+.et_right_sidebar #sidebar {
+    padding-left: 0;
+}
+
+.container::before { display:none; } .et_pb_widget_area_right { border-left:0; }
+/*------------------------------------------------*/
+/*-------[CUSTOM WIDGET SEARCH AND TITLES]--------*/
+/*-------------[BY GENO QUIROZ]-------------------*/
+/*------------------------------------------------*/
+ 
+/* option 1 */
+ 
+    .option-1 .widgettitle, .option-1 .footer-widget .title {
+            background: #111!important;
+            color: #fff !important;
+            font-size: 14px;
+            text-transform: uppercase;
+            display: inline-block;
+            position: relative;
+            height: 33px;
+            line-height: 33px;
+            padding: 0 10px;
+            max-width: 100%;
+            margin-right: 10px;
+            border: 0;
+            margin-left: 10px;
+        margin-bottom: 14px;}
+ 
+    .option-1 .widgettitle:before, .option-1 .footer-widget .title:before{
+            content: '';
+            display: block;
+            height: 0;
+            position: absolute;
+            width: 0;
+            top: 0;
+            left: -10px;
+            border-color: inherit;
+            border-bottom: 0 solid rgba(255,255,255,0);
+            border-right: 10px solid rgba(17,17,17,1);
+            border-top: 33px solid rgba(255,255,255,0);
+            right: -10px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -ms-box-sizing: border-box;
+            box-sizing: border-box;
+            text-rendering: optimizeLegibility;}
+ 
+    .option-1 .widgettitle:after, .option-1 .footer-widget .title:after {
+            content: '';
+            display: block;
+            height: 0;
+            position: absolute;
+            width: 0;
+            top: 0;
+            border-color: inherit;
+            border-bottom: 32px solid rgba(255,255,255,0);
+            border-left: 10px solid rgba(17,17,17,1);
+            border-top: 0 solid rgba(255,255,255,0);
+            right: -10px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -ms-box-sizing: border-box;
+            box-sizing: border-box;
+            text-rendering: optimizeLegibility;}
+ 
+    /* sidebar search bar */
+        .option-1 .widget_search #searchsubmit {background-color: #111;}
+        .option-1 .widget_search input#searchsubmit {color: #fff;}
+        .option-1 .widget_search input#s {border: 1px solid #111; background-color:#fff;}
+		.option-1 .widget_search input#s, .widget_search input#searchsubmit {
+    border: 1px solid #111;
+    
+}
+
+/*------------------------------------------------*/
+/*-------------[BLOG SMALL IMAGES]----------------*/
+/*------------------------------------------------*/
+/*feature thumbnails alongside post titles on blog page*/
+ 
+   .blog_small_image .et_pb_posts .et_pb_post a img {
+            max-width: 300px!important;
+            float: left !important;
+            padding-right: 20px !important;}
+ 
+    @media only screen and (max-width: 980px) {
+        .blog_small_image .et_pb_posts .et_pb_post a img{
+            float:none !important;
+            max-width: 100%!important;}}
+
+	.blog_small_image  .et_pb_posts .et_pb_post { margin-bottom: 8%;}
+	
+	.blog_small_image_no_sidebar .et_pb_posts .et_pb_post {clear:both;margin-bottom:8%;}
+	
+	   .blog_small_image_no_sidebar .et_pb_posts .et_pb_post a img {
+            max-width: 300px!important;
+            float: left !important;
+            padding-right: 20px !important;}
+ 
+    @media only screen and (max-width: 980px) {
+        .blog_small_image_no_sidebar .et_pb_posts .et_pb_post a img{
+            float:none !important;
+            max-width: 100%!important;}}
+
+	.blog_small_image .et_pb_posts .et_pb_post { margin-bottom: 10%;}
+	
+/*------------------------------------------------*/
+/*-------------[SITEMAP PAGE]----------------*/
+/*------------------------------------------------*/	
+.sitemap h1{ }
+.sitemap h3{ color:#f1f1f1;  }
+	
+/*------------------------------------------------*/
+/*---------------[RESPONSIVE LAYOUTS]-------------*/
+/*------------------------------------------------*/
+
+@media only screen and ( min-width: 980px ) {.et_pb_map { height: 550px !important;}}
+
+
+
+/*-------------------[320px]------------------*/
+@media only screen and ( max-width: 479px ) {
+.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h1{
+    
+    font-size: 60px !important;
+}
+}
+
+/* #### Mobile Phones Portrait #### */
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+ .et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h1 {
+  
+    font-size: 60px !important;
+}
+}
+
+
+
+/* #### iPhone 4+ Portrait or Landscape #### */
+@media screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+ .et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h1 {
+   
+    font-size: 60px !important;
+}
+}
