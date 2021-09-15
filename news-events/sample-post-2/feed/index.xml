@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Sample Post 2	</title>
-	<atom:link href="https://www.ourlacma.org/news-events/sample-post-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ourlacma.org/news-events/sample-post-2/</link>
+	<atom:link href="/news-events/sample-post-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/news-events/sample-post-2/</link>
 	<description>It&#039;s our LACMA</description>
 	<lastBuildDate>Tue, 24 Sep 2019 16:16:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
 </channel>
 </rss>

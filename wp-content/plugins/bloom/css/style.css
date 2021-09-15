@@ -11,11 +11,11 @@
 
 @font-face {
 	font-family: 'ET-Bloom';
-	src:url('https://www.ourlacma.org/wp-content/plugins/bloom/css/fonts/ET-Bloom.eot?gd6mr8');
-	src:url('https://www.ourlacma.org/wp-content/plugins/bloom/css/fonts/ET-Bloom.eot#iefixgd6mr8') format('embedded-opentype'),
-		url('https://www.ourlacma.org/wp-content/plugins/bloom/css/fonts/ET-Bloom.woff?gd6mr8') format('woff'),
-		url('https://www.ourlacma.org/wp-content/plugins/bloom/css/fonts/ET-Bloom.ttf?gd6mr8') format('truetype'),
-		url('https://www.ourlacma.org/wp-content/plugins/bloom/css/fonts/ET-Bloom.svg?gd6mr8#ETdashboard') format('svg');
+	src:url('/wp-content/plugins/bloom/css/fonts/ET-Bloom.eot?gd6mr8');
+	src:url('/wp-content/plugins/bloom/css/fonts/ET-Bloom.eot#iefixgd6mr8') format('embedded-opentype'),
+		url('/wp-content/plugins/bloom/css/fonts/ET-Bloom.woff?gd6mr8') format('woff'),
+		url('/wp-content/plugins/bloom/css/fonts/ET-Bloom.ttf?gd6mr8') format('truetype'),
+		url('/wp-content/plugins/bloom/css/fonts/ET-Bloom.svg?gd6mr8#ETdashboard') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -37,7 +37,7 @@
 .et_bloom .et_bloom_form_bottom.et_bloom_rounded_corners .et_bloom_form_content { -webkit-border-bottom-right-radius: 5px; -webkit-border-bottom-left-radius: 5px; -moz-border-radius-bottomright: 5px; -moz-border-radius-bottomleft: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; }
 
 .et_bloom button.et_bloom_submit_subscription { position: relative; }
-.et_bloom .et_bloom_subscribe_loader { display: none; background: url('https://www.ourlacma.org/wp-content/plugins/bloom/images/subscribe-loader.gif') !important; width: 16px; height: 16px; position: absolute; left: 50%; top: 50%; margin: -8px auto auto -8px !important; }
+.et_bloom .et_bloom_subscribe_loader { display: none; background: url('/wp-content/plugins/bloom/images/subscribe-loader.gif') !important; width: 16px; height: 16px; position: absolute; left: 50%; top: 50%; margin: -8px auto auto -8px !important; }
 .et_bloom .et_bloom_button_text_loading .et_bloom_button_text { visibility: hidden; }
 
 .et_bloom .et_bloom_1_field p.et_bloom_popup_input { width: 68%; }
@@ -201,7 +201,7 @@
 			.et_bloom .et_bloom_popup_input input::-moz-placeholder { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 			.et_bloom .et_bloom_popup_input input:-ms-input-placeholder { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 		.et_bloom .et_bloom_form_container .et_bloom_form_content input.error { color: #f45a4a; border: 2px solid #f45a4a; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
-		/*.et_bloom_form_container .et_bloom_form_content .required { background-image: url(https://www.ourlacma.org/wp-content/plugins/bloom/css/images/required.png) !important; background-position: 98% 50% !important; background-repeat: no-repeat !important; }*/
+		/*.et_bloom_form_container .et_bloom_form_content .required { background-image: url(/wp-content/plugins/bloom/css/images/required.png) !important; background-position: 98% 50% !important; background-repeat: no-repeat !important; }*/
 		.et_bloom .et_bloom_form_container .et_bloom_form_content textarea { min-height: 80px; }
 		.et_bloom .et_bloom_form_container .et_bloom_form_content input.et_contact_submit, .et_bloom .et_bloom_form_content #mc_embed_signup .button, .et_bloom .et_bloom_form_campaign_monitor .et_bloom_form_content p button, .et_bloom .et_bloom_form_content .mimi_field .submit, .et_bloom .et_bloom_form_get_response .et_bloom_form_content .wf-button, .et_bloom .et_bloom_form_feedblitz .et_bloom_form_content form input[type="button"], .et_bloom .et_bloom_form_icontact .et_bloom_form_content input[type="submit"] { font-weight: 700; text-transform: uppercase; color: rgba(255,255,255,0.8); cursor: pointer; font-size: 14px; }
 		.et_bloom .et_bloom_form_container .et_bloom_form_content input.et_contact_submit, .et_bloom .et_bloom_form_content #mc_embed_signup .button, .et_bloom .et_bloom_form_content #mc_embed_signup .button:hover, .et_bloom .et_bloom_form_campaign_monitor .et_bloom_form_content p button, .et_bloom .et_bloom_form_content .mimi_field .submit, .et_bloom .et_bloom_form_get_response .et_bloom_form_content .wf-button, .et_bloom .et_bloom_form_feedblitz .et_bloom_form_content form input[type="button"], .et_bloom .et_bloom_form_icontact .et_bloom_form_content input[type="submit"] { background-color: #58b9cb; }
@@ -300,8 +300,8 @@
 .et_bloom .et_bloom_form_content div.radio .checked:before { background: #7f7f7f; width: 11px; height: 11px; -moz-border-radius: 11px; -webkit-border-radius: 11px; border-radius: 11px; top: 7px; left: 7px; }
 .et_bloom .et_bloom_form_container.et_bloom_form_text_light .et_bloom_form_content div.radio .checked:before { background: #fff; }
 
-.et_bloom .et_bloom_form_content div.checker .checked:before { top: 7px; left: 6px; width: 14px; height: 11px; background: url('https://www.ourlacma.org/wp-content/plugins/bloom/images/checked.png') no-repeat; }
-.et_bloom .et_bloom_form_container.et_bloom_form_text_light .et_bloom_form_content div.checker .checked:before { background-image: url('https://www.ourlacma.org/wp-content/plugins/bloom/images/checked_light.png'); }
+.et_bloom .et_bloom_form_content div.checker .checked:before { top: 7px; left: 6px; width: 14px; height: 11px; background: url('/wp-content/plugins/bloom/images/checked.png') no-repeat; }
+.et_bloom .et_bloom_form_container.et_bloom_form_text_light .et_bloom_form_content div.checker .checked:before { background-image: url('/wp-content/plugins/bloom/images/checked_light.png'); }
 .et_bloom .et_bloom_form_content div.radio .checked:before, .et_bloom .et_bloom_form_content div.checker .checked:before { content: ''; position: absolute; }
 .et_bloom .et_bloom_form_content div.radio, .et_bloom .et_bloom_form_content div.checker { background: #fff; margin-right: 10px; position: relative; display: inline-block; zoom: 1; vertical-align: middle; }
 .et_bloom .et_bloom_form_container.et_bloom_form_text_light .et_bloom_form_content div.radio, .et_bloom .et_bloom_form_container.et_bloom_form_text_light .et_bloom_form_content div.checker { background: rgba(0,0,0,0.15); }

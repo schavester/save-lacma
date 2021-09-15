@@ -9,180 +9,28 @@
 
 <channel>
 	<title>admin | Save LACMA</title>
-	<atom:link href="https://www.ourlacma.org/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ourlacma.org/</link>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>It&#039;s our LACMA</description>
-	<lastBuildDate>Tue, 24 Sep 2019 16:15:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Sep 2019 16:16:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
 
 <image>
-	<url>https://www.ourlacma.org/wp-content/uploads/2019/10/cropped-SaveIt3-32x32.jpg</url>
+	<url>/wp-content/uploads/2019/10/cropped-SaveIt3-32x32.jpg</url>
 	<title>admin | Save LACMA</title>
-	<link>https://www.ourlacma.org/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Typewriter</title>
-		<link>https://www.ourlacma.org/news/typewriter/</link>
-					<comments>https://www.ourlacma.org/news/typewriter/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:43:40 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=307</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/typewriter/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Iphone</title>
-		<link>https://www.ourlacma.org/news/iphone/</link>
-					<comments>https://www.ourlacma.org/news/iphone/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:43:06 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=304</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/iphone/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Electro</title>
-		<link>https://www.ourlacma.org/news/electro/</link>
-					<comments>https://www.ourlacma.org/news/electro/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:42:37 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=301</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/electro/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Coffee</title>
-		<link>https://www.ourlacma.org/news/coffee/</link>
-					<comments>https://www.ourlacma.org/news/coffee/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:42:12 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=298</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/coffee/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Lens</title>
-		<link>https://www.ourlacma.org/news/lens/</link>
-					<comments>https://www.ourlacma.org/news/lens/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:41:46 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=295</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/lens/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Dog</title>
-		<link>https://www.ourlacma.org/news/dog/</link>
-					<comments>https://www.ourlacma.org/news/dog/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:41:22 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=292</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/dog/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Car</title>
-		<link>https://www.ourlacma.org/news/car/</link>
-					<comments>https://www.ourlacma.org/news/car/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:40:57 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=289</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/car/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Shoes</title>
-		<link>https://www.ourlacma.org/news/shoes/</link>
-					<comments>https://www.ourlacma.org/news/shoes/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 30 May 2019 15:40:32 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://www.candythemes.com/demo/one/?p=286</guid>
-
-					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.ourlacma.org/news/shoes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Sample Post 4</title>
-		<link>https://www.ourlacma.org/uncategorized/sample-post-4/</link>
-					<comments>https://www.ourlacma.org/uncategorized/sample-post-4/#respond</comments>
+		<link>/uncategorized/sample-post-4/</link>
+					<comments>/uncategorized/sample-post-4/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 22 Jun 2016 07:14:10 +0000</pubDate>
@@ -205,15 +53,15 @@
 <p>This sample content has been provided by <a href="http://www.mhthemes.com/" target="_blank" rel="nofollow noopener noreferrer">MH Themes</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.ourlacma.org/uncategorized/sample-post-4/feed/</wfw:commentRss>
+					<wfw:commentRss>/uncategorized/sample-post-4/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sample Post 3</title>
-		<link>https://www.ourlacma.org/news-events/sample-post-3/</link>
-					<comments>https://www.ourlacma.org/news-events/sample-post-3/#respond</comments>
+		<link>/news-events/sample-post-3/</link>
+					<comments>/news-events/sample-post-3/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 22 Jun 2016 07:14:05 +0000</pubDate>
@@ -235,7 +83,70 @@
 <p>This sample content has been provided by <a href="http://www.mhthemes.com/" target="_blank" rel="nofollow noopener noreferrer">MH Themes</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.ourlacma.org/news-events/sample-post-3/feed/</wfw:commentRss>
+					<wfw:commentRss>/news-events/sample-post-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sample Post 2</title>
+		<link>/news-events/sample-post-2/</link>
+					<comments>/news-events/sample-post-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2016 07:13:50 +0000</pubDate>
+				<category><![CDATA[News & Events]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[Sample Tag2]]></category>
+		<category><![CDATA[Sample Tag3]]></category>
+		<category><![CDATA[Sample Tag4]]></category>
+		<guid isPermaLink="false">http://localhost:8888/wordpress_demo/?p=10</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<h3>This is a h3 headline</h3>
+<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+<blockquote><p>This is a block quote. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p></blockquote>
+<h4>This is a h4 headline</h4>
+<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.</p>
+<p>This sample content has been provided by <a href="http://www.mhthemes.com/" target="_blank" rel="nofollow noopener noreferrer">MH Themes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/news-events/sample-post-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sample Post 1</title>
+		<link>/community/sample-post-1/</link>
+					<comments>/community/sample-post-1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2016 07:13:47 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[News & Events]]></category>
+		<category><![CDATA[Sample Tag1]]></category>
+		<category><![CDATA[Sample Tag2]]></category>
+		<category><![CDATA[Sample Tag3]]></category>
+		<category><![CDATA[Sample Tag4]]></category>
+		<guid isPermaLink="false">http://localhost:8888/wordpress_demo/?p=9</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<h3>This is a h3 headline</h3>
+<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+<blockquote><p>This is a block quote. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p></blockquote>
+<h4>This is a h4 headline</h4>
+<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur.</p>
+<p>This sample content has been provided by <a href="http://www.mhthemes.com/" target="_blank" rel="nofollow noopener noreferrer">MH Themes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/community/sample-post-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

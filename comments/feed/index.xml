@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for Save LACMA	</title>
-	<atom:link href="https://www.ourlacma.org/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ourlacma.org/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>It&#039;s our LACMA</description>
-	<lastBuildDate>Wed, 04 Mar 2020 16:52:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 21:16:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
 </channel>
 </rss>
